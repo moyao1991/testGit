@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 ﻿zcadeeadaesdfa
+=======
+<<<<<<< HEAD
+﻿
+﻿asdfsafsdfafa
+
+﻿afffffffffffffffffffffff
+
+=======
+﻿zceee
+>>>>>>> 6af9d37a001e737ce7b8f0abb03bc2b519508403
+>>>>>>> ec59c5ec825ada38f6bd30f03f38bc661a3a58fd
